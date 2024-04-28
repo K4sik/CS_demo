@@ -1,0 +1,6 @@
+[DEBUG] 2024-04-28 18:34:08.006 [HikariPool-1 connection closer] PoolBase - HikariPool-1 - Closing connection org.postgresql.jdbc.PgConnection@97a717b: (connection evicted)
+[DEBUG] 2024-04-28 18:34:08.008 [HikariPool-1 connection closer] PoolBase - HikariPool-1 - Closing connection org.postgresql.jdbc.PgConnection@5b017bf9: (connection evicted)
+[DEBUG] 2024-04-28 18:34:08.008 [HikariPool-1 connection closer] PoolBase - HikariPool-1 - Closing connection org.postgresql.jdbc.PgConnection@15d0a2c: (connection evicted)
+[DEBUG] 2024-04-28 18:34:08.008 [HikariPool-1 connection closer] PoolBase - HikariPool-1 - Closing connection org.postgresql.jdbc.PgConnection@4a0ad158: (connection evicted)
+[DEBUG] 2024-04-28 18:34:08.009 [SpringApplicationShutdownHook] HikariPool - HikariPool-1 - After shutdown stats (total=0, active=0, idle=0, waiting=0)
+[INFO ] 2024-04-28 18:34:08.010 [SpringApplicationShutdownHook] HikariDataSource - HikariPool-1 - Shutdown completed.
